@@ -1,2 +1,2 @@
-# volatility-trading-dashboard-
+# volatility-trading-dashboard
 Volatility Trading Dashboard 
